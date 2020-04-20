@@ -1,7 +1,7 @@
 # Cybersecurity-Mindmaps
 Collection of Cybersecurity Mindmaps
 
-Links to more:
+The files above are the ones that I created. Here are links to others:
   
 Map of Cybersecurity Domains - https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp/
 
