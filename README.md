@@ -11,10 +11,6 @@ Elements of Social Engineer Attack - https://www.technewsworld.com/story/86287.h
 
 Nice collection on many topics - https://www.amanhardikar.com/mindmaps.html
 
-Nice collection from DFIR.Training - https://www.dfir.training/mindmaps
-
 Data Breach Response Plan Mind Map - https://www.cm-alliance.com/data-breach-response-plan
-
-CISO Mind Map - http://rafeeqrehman.com/
 
 Security Services Mind Map - https://www.slideshare.net/DavidKennedy29/security-services-mind-map
