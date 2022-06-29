@@ -1,2 +1,1 @@
-# Cybersecurity-Mindmaps
-Collection of Cybersecurity & other Mindmaps
+Collection of cybersecurity & other mind maps
